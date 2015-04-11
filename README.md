@@ -1,7 +1,5 @@
-One of our personal project aimed for the community. @prashishh and me we worked our ass of to come up with what we think 
-an awesome project as it was completed in our first year of Engineering. 
+INTRODUCTION
 
-Also, our first project of Fortystones. 
+Shree is a phoenotic translation of Ennglish words to Nepali words. It is a product of Fortystones.
 
-Please feel free to make PRs :)
-
+Contributors: @prashishh @rabishah
